@@ -1,0 +1,24 @@
+SKILL 24 ARCHITECTURE
+
+Source Code
+    |
+    v
+src/main.c
+    |
+    v
+include/config.h
+    |
+    v
+Makefile
+    |
+    v
+Executable
+    |
+    v
+Automated Tests
+    |
+    v
+Git Repository
+    |
+    v
+Release Tag v1.0.0
